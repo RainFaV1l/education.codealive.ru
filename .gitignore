@@ -1,0 +1,4 @@
+.env
+config/livewire.php
+app/Providers/AppServiceProvider.php
+resources/views/components/head.blade.php
